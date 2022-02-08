@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @FilmQ
+- Hi there! Name's Film.
 - 🌱 I’m just starting out -w-
