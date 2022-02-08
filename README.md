@@ -1,2 +1,2 @@
 - Hi there! Name's Film.
-- 🌱 I’m just starting out -w-
+- I’m just starting out -w-
