@@ -1,2 +1,1 @@
-- Hi there! Name's Film.
-- I’m just starting out -w-
+Placeholder placeholder placeholder placeholder
